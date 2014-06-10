@@ -7,6 +7,11 @@
 &adsourceid=
 &adurl=
 &showad=
+cntv.cn/*/bgsound*.mp3
+||google-analytics.com^$third-party
+||googletagservices.com^$third-party
+||tanx.com^$third-party
+##.tuiguang_all
 -ad1.
 -ad3.
 .adserver.
