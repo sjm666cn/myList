@@ -830,7 +830,9 @@ discuss.com.hk,uwants.com#@##featuread
 ||exoclick.com^$third-party
 ||exponential.com^$third-party
 ||fxdepo.com^$third-party
-||googletagservices.com/tag/js/gpt_$third-party
+||googletagservices.com^$third-party
+||google-analytics.com^$third-party
+||tanx.com^$third-party
 ||innity.com^$third-party
 ||innity.net^$third-party
 ||inskinad.com^$third-party
