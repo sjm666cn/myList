@@ -3,6 +3,11 @@
 ! Expires: 360 days (update frequency)
 ! Homepage: https://github.com/sjm666cn/myList
 ! List version 140611
+||google-analytics.com^$third-party
+||googletagservices.com^$third-party
+||tanx.com^$third-party
+##.tuiguang_all
+||cntv.cn/Library/yixuan/yixuan_nav/bgsound_53923.mp3
 &ad_type=
 &adsourceid=
 &adurl=
