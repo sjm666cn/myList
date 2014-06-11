@@ -14,8 +14,7 @@
 ||qzzn.com/images/ad*
 ||wenhui.news365.com.cn/images/page_effect.swf
 ||people.com.cn/img/2013people/images/*banner*
-##.tuiguang
-##.ad_360
-people.com.cn##.about_pic.clearfix
+people.com.cn##.tuiguang
+people.com.cn##.ad_360
 qzzn.com##DIV[style="padding:10px 0 0 0; width:1020px; height:155px; overflow:hidden;"]
 !----------------------------------The End------------------------------------!
