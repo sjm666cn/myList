@@ -1,12 +1,10 @@
 [Adblock Plus 2.1]
-! Checksum: 1wMcltcOHgAGUoe/tSM28w
-! Version: 201406102211
-! Title: EasyList China
-! Chinese supplement for the EasyList filters
-! Last Modified: 10 Jun 2014 22:11 UTC
+! Version: 201406110221
+! Title: myChinaList
+! Last Modified: 11 Jun 2014
 ! Expires: 360 days (update frequency)
-! Homepage: http://abpchina.org/forum/
-! License: https://easylist-downloads.adblockplus.org/COPYING
+! Homepage: https://github.com/sjm666cn/myList/
+! License: 
 !
 ! Please report any unblocked adverts or problems
 ! in the forums (http://abpchina.org/forum/)
@@ -1399,13 +1397,12 @@ weather.com.cn##div[class^="adpos"]
 ||76.73.85.179/js/v1.js
 ||766.com/upbox2/js/*.js
 ||77119.com/js/
-||77bike.com/bbs/attachment/16_1_d40364a420f7f00.jpg
 ||77ds.com/js/download.js
 ||7958.com/static/disk/images/tija_gif.gif
 ||7c.com/7c_top.html
 ||7cip.com/code/
 ||7dsw.com/web8/js/
-||7edown.com/upload/yd*.gif
+||7edown.com/upload/*.gif
 ||7ey.net/js/index_
 ||7ey.net/js/l_top
 ||7m.cn/b/live_b
@@ -3489,8 +3486,12 @@ weather.com.cn##div[class^="adpos"]
 ||zymao.net/img/taolink.jpg
 ||zyzczs.com/js/tj.txt
 ||zzqhy.com^*/page/
+||6park.com/img/15.png
+||77bike.com/img/pacific.jpg
+||77bike.com/img/ori.gif
+||77bike.com/img/anemos.jpg
 ||zzsky.cn/images/zzskycom_
-||1688.com.au/site1/1688ad/
+||houdao.com/images/houdaov3/ban.png
 ||shangdu.com/1002/1002030101.js
 ||shangdu.com/newsimages/2014/05/30/self_20140530_18.swf
 ||shangdu.com/newfile2007/ad/tu/flash/3dboard.swf
@@ -3499,6 +3500,8 @@ weather.com.cn##div[class^="adpos"]
 gpcxw.com###AA2
 yaolan.com###AD
 21yq.com###AD1
+7y7.com##.ad_640
+houdao.com##A[style^="background:url(http://bbs.houdao.com/bans/"]
 gdtv.cn###ADVbuttom
 sina.com.cn###AD_Background_Wall_BG
 sina.com.cn###AD_Background_Wall_Banner
@@ -3649,7 +3652,7 @@ news.msn.com.tw###adv_images_l
 wj001.com###advert
 mtime.com###animation_lu
 coolapk.com###apkDownloadAds
-kaixin001.com###appMenu > div:nth-last-child(-n+2)
+kaixin001.com###appMenu > .mb10
 tw.msn.com###area1 > .ro:nth-child(6)
 gxnews.com.cn###art_adunioncode
 wx.sina.com.cn###artibody > .article-video
@@ -3792,7 +3795,6 @@ nownews.com###focus_board
 mxzmz.com###focus_right > dl
 baigoogledu.com###footer + #link
 ettoday.net###for-ec
-7po.com###forum_adlist
 uwants.com###foruminfo + div[align="center"]
 yangluo.cn###frame51RcxP
 211600.com###frame5B94Fv
@@ -4769,7 +4771,7 @@ faxingw.cn##.indadv1
 hunantv.com##.index-ad-66190
 hunantv.com##.index-ad-main
 hunantv.com##.index-ad-main1
-77bike.com,cncao8.com##.index-info > .tac
+cncao8.com##.index-info > .tac
 zahuishi.com##.index950x90
 zahuishi.com##.index960x90
 goxiazai.net,hifidiy.net,ydss.cn##.indexAd
@@ -5349,7 +5351,7 @@ ccidnet.com##div[id^="ad_dst"]
 szhk.com##div[id^="adp"]
 cbmland.com,ynet.com##div[id^="ads_"]
 eyuyao.com,txzqw.com##div[id^="ads_c_"]
-77bike.com,bbs.eyuyan.com,mgbbs.cn##div[id^="ads_d_"]
+bbs.eyuyan.com,mgbbs.cn##div[id^="ads_d_"]
 bbs.hb163.cn,chinayk.com,e0575.cn,kbcool.com,tiboo.cn##div[id^="ads_r_"]
 fx678.com,xiancn.com,zhulang.com##div[id^="adv"]
 yesky.com##div[id^="amazon"]
@@ -5447,7 +5449,7 @@ gfan.com##div[style="width:960px;height:90px;margin-top:10px;"]
 duba.com##div[style="width:960px;height:90px;margin:0 auto 10px auto; overflow:hidden;"]
 soxia.cc##div[style="width:960px;height:90px;margin:10px auto;"]
 zol.com.cn##div[style="width:980px;height:90px;text-align:center;float:none"]
-7sel.com##div[style^="border:1px solid #9FB7D4; width:978px;"]
+7sel.com##.ui-sponsor950
 2cto.com##div[style^="float:left;width:300px;"]
 580k.com##div[style^="height:285px;width:360px;"]
 9ku.com##div[style^="height:90px;"]
@@ -5537,7 +5539,7 @@ verycd.gdajie.com##th[colspan="3"]
 lywww.com##ul[id^="addimg_"]
 taihainet.com##ul[style=" width:1000px; height:90px; padding:10px 0; background-color:#ffffff;"]
 00sy.com##ul[style="width: 830px;margin:0 auto;height:250px;text-align:center;margin-top:10px;"]
-coc.18183.com###couplet_ad
+18183.com###couplet_ad
 !---------------------------------Whitelists----------------------------------!
 920url.com#@##AdDiv
 news.now.com#@##ad-2
