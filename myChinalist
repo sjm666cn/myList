@@ -1,17 +1,9 @@
 [Adblock Plus 2.1]
-! Version: 201406110221
+! Version: 20140611
 ! Title: myChinaList
-! Last Modified: 11 Jun 2014
 ! Expires: 360 days (update frequency)
 ! Homepage: https://github.com/sjm666cn/myList/
-! License: 
 !
-! Please report any unblocked adverts or problems
-! in the forums (http://abpchina.org/forum/)
-! or via e-mail (easylist.china@gmail.com).
-!
-! Fork of: ChinaList https://github.com/chinalist/chinalist
-!  Mon, 24 Mar 2014 09:28:37 +0800
 !*** chinalist-adservers.txt ***
 !--中国电信
 /clicktotal/ClickTotal.js
