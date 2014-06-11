@@ -5,6 +5,8 @@
 ! List version 14061102
 ||google-analytics.com^$third-party
 ||googletagservices.com^$third-party
+||webterren.com^$third-party
+||360.cn^$third-party
 ||tanx.com^$third-party
 ||cntv.cn/Library/yixuan/yixuan_nav/*
 ||gwy.cn/qzzn/*
@@ -13,6 +15,8 @@
 ||wenhui.news365.com.cn/images/page_effect.swf
 ||people.com.cn/img/2013people/images/*banner*
 ##.tuiguang
+people.com.cn##.about_pic.clearfix
+people.com.cn##.opinion.opinion_new.ad_360.clear
 qzzn.com##A[style="color:#CC3300;font-size:12px;"]
 qzzn.com##DIV[style="padding:10px 0 0 0; width:1020px; height:155px; overflow:hidden;"]
 !----------------------------------The End------------------------------------!
