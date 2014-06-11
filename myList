@@ -2,11 +2,13 @@
 ! Title: myList
 ! Expires: 360 days (update frequency)
 ! Homepage: https://github.com/sjm666cn/myList
-! List version 140611
+! List version 14061101
 ||google-analytics.com^$third-party
 ||googletagservices.com^$third-party
 ||tanx.com^$third-party
 ||cntv.cn/Library/yixuan/yixuan_nav/*
+||gwy.cn/qzzn/*
+||qzzn.com/statics/*
 ##.tuiguang
 &ad_type=
 &adsourceid=
