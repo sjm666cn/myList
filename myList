@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Title: myList
+! Expires: 360 days (update frequency)
+! Homepage: https://github.com/sjm666cn/myList
+! List version 14061101
+||google-analytics.com^$third-party
+||googletagservices.com^$third-party
+||tanx.com^$third-party
+||cntv.cn/Library/yixuan/yixuan_nav/*
+||gwy.cn/qzzn/*
+||qzzn.com/statics/*
+||qzzn.com/images/ad*
+||wenhui.news365.com.cn/images/page_effect.swf
+||people.com.cn/img/2013people/images/*banner*
+##.tuiguang
+qzzn.com##A[style="color:#CC3300;font-size:12px;"]
+qzzn.com##DIV[style="padding:10px 0 0 0; width:1020px; height:155px; overflow:hidden;"]
