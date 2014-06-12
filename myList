@@ -8,7 +8,9 @@
 ||webterren.com^$third-party
 ||wrating.com^$third-party
 ||qq.com^$third-party
-||lianmeng.360.cn^$third-party
+||360.cn^$third-party,domain=~so.com|~360safe.com
+||egovsum.com^$third-party
+||gridsumdissector.com^$third-party
 ||irs01.com^$third-party
 ||tanx.com^$third-party
 ||cntv.cn/Library/yixuan/yixuan_nav/*
@@ -19,6 +21,7 @@
 ||people.com.cn/img/2013people/images/*banner*
 ||people.com.cn/img/2012wbn/rmwbShare.js
 ||people.com.cn/css/2010tianrun/webdig_test.js
+/webdig.js
 people.com.cn##.tuiguang
 people.com.cn##.ad_360
 xinhuanet.com###right_360
